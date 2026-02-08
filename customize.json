@@ -1,6 +1,11 @@
 {
-  "name": "Lily",
-  "greetingText": "I really like your name btw!",
-  "wishText": "Mere Baalka Ki Maa, Tanne I Love You :)",
-  "imagePath": "img/valentine.jpg"
+  "greeting": "Hey",
+  "name": "Patthardill🌹",
+  "greetingText": "તને 'Not Interested' માંથી 'Interested' કરવા માટે આ નાનકડી ટ્રાય! 😉",
+  "wishText": "પણ આ પથ્થરદિલને સ્માઈલ કરતા જોવી 'Interesting' છે! 😉",
+  "imagePath": "img/vector.jpg",
+  "text1": "મારે તારું મન નથી બદલવું,",
+  "text2": "બસ તારો મૂડ બદલવો હતો.",
+  "text3": "સો, હવે મોઢું બગાડ્યા વગર...",
+  "text4": "Keep Smiling! ✨"
 }
